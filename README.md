@@ -27,7 +27,7 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/AlbinNJ0">Twitter</a>
+├─◈ <a href="https://twitter.com/iamalbinnj">Twitter</a>
 ├─◈ <a href="https://www.linkedin.com/in/albinnj">LinkedIn</a>
 ├─◈ <a href="https://t.me/iamalbinnj">Telegram</a>
 │
