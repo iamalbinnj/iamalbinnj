@@ -38,6 +38,9 @@
 <h2 align="center">🌿 Featured Projects 🌿</h2>
 
 <div align="center">
+  <a href="https://github.com/iamalbinnj/webhux">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamalbinnj&repo=webhux&theme=vue" alt="Webhux">
+  </a>
   <a href="https://github.com/iamalbinnj/DeepFakeDetection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamalbinnj&repo=DeepFakeDetection&theme=vue" alt="DeepFakeDetection">
   </a>
